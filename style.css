@@ -4,3 +4,12 @@
 .primary-color{
     color: blue;
 }
+.background-img{
+    background-image: linear-gradient(45deg, violet, orange);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: overlay;
+    height: 50vh;
+    
+}
